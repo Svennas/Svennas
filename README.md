@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Svennas
 - 👀 I’m interested in sports (especially hockey), gaming and science.
-- 🌱 I’m currently learning Concurrent programming and Operating Systems (using C), and Data Structures, Algorithms and Programming Paradigms (using C++)
+- 🌱 I’m currently learning going through old projects, trying to jog my memory with Java and Python.
 - 💞️ I’m looking to collaborate on nothing for the moment.
 - 📫 Reach me here if possible. 
 
