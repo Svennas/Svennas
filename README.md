@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Svennas
-- 👀 I’m interested in sports (especially hockey), gaming and science.
+- 👀 I’m interested in sports and gaming, both on the board and the computer.
 - 🌱 I’m currently learning by going through old projects, trying to jog my memory with Java and Python.
 - 💞️ I’m looking to collaborate on nothing for the moment.
 - 📫 Reach me here if possible. 
